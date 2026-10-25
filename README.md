@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Karina]([https://www.linkedin.com/in/karina-bobrovska-dev/])
+- **LinkedIn:** [Karina](https://www.linkedin.com/in/karina-bobrovska-dev/)
 - **Telegram:** [@KarinaBobrovska](https://t.me/KarinaBobrovska)
 - **Email:** supershinshila1027@gmail.com
 
